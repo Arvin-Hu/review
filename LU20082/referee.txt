@@ -1,0 +1,17 @@
+---------------------------------------------------------------------
+Report of Referee B -- LU20082/Gu
+----------------------------------------------------------------------
+
+In this manuscript, Gu et. al. propose an alternative mechanism for the observed QH plateau and metal-insulator transition in ZrTe5 and HfTe5 subject to strong magnetic fields. A strong magnetic field causes effective dimensional reduction of the system by forming dispersive one-dimensional Landau levels. Due to the resulting finite density of states, it is natural that such an effective 1D system would undergo a CDW transition in strong external B fields, resulting in the observed field-induced metal-insulator transition. So far the community has pursued this approach, although some experimental observation is not compatible with the CDW ordering.
+
+By contrast, the authors propose a different picture in which a bosonic field is coupled to the gapless fermionic degrees of freedom. However, it is not clear what is the microscopic origin of such bosonic field and why this mechanism should be a better or more appropriate one in comparison to the most likely CDW ordering scenario. Authors then show that such boson-fermion coupling leads to a first order transition which can be rounded by disorder. While these results are interesting from a theoretical point of view and qualitatively explains some of the experimental observations, I do not see sufficient novelty in this work to warrant publication of this article in PRL.
+
+One-dimensional electronic systems coupled bosonic modes is a very well studied problem in the literature. In this respect, the current work is somewhat an extension of the existing formalism in which the three-dimensional systems become effectively one-dimensional due to the presence of external magnetic field.
+
+The rounding of a first-order transition by disorder is also a very well-appreciated outcome.
+
+Therefore, I do not see any pressing novelty in this work to warrant publication in PRL. This paper should be published in a more specialized journal like PRB or PRR.
+
+----------------------------------------------------------------------
+Resubmission letter from author -- LU20082/Gu
+----------------------------------------------------------------------
